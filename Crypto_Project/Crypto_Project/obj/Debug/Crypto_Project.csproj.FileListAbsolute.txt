@@ -8,3 +8,13 @@ Z:\Programming Languages\C#\ITRI_615_Crypto_Proj\Crypto_Project\Crypto_Project\o
 Z:\Programming Languages\C#\ITRI_615_Crypto_Proj\Crypto_Project\Crypto_Project\obj\Debug\Crypto_Project.csproj.CoreCompileInputs.cache
 Z:\Programming Languages\C#\ITRI_615_Crypto_Proj\Crypto_Project\Crypto_Project\obj\Debug\Crypto_Project.exe
 Z:\Programming Languages\C#\ITRI_615_Crypto_Proj\Crypto_Project\Crypto_Project\obj\Debug\Crypto_Project.pdb
+D:\CMPG323\ITRI_615_Crypto_Proj\Crypto_Project\Crypto_Project\bin\Debug\Crypto_Project.exe.config
+D:\CMPG323\ITRI_615_Crypto_Proj\Crypto_Project\Crypto_Project\bin\Debug\Crypto_Project.exe
+D:\CMPG323\ITRI_615_Crypto_Proj\Crypto_Project\Crypto_Project\bin\Debug\Crypto_Project.pdb
+D:\CMPG323\ITRI_615_Crypto_Proj\Crypto_Project\Crypto_Project\obj\Debug\Crypto_Project.csprojAssemblyReference.cache
+D:\CMPG323\ITRI_615_Crypto_Proj\Crypto_Project\Crypto_Project\obj\Debug\Crypto_Project.frmMain.resources
+D:\CMPG323\ITRI_615_Crypto_Proj\Crypto_Project\Crypto_Project\obj\Debug\Crypto_Project.Properties.Resources.resources
+D:\CMPG323\ITRI_615_Crypto_Proj\Crypto_Project\Crypto_Project\obj\Debug\Crypto_Project.csproj.GenerateResource.cache
+D:\CMPG323\ITRI_615_Crypto_Proj\Crypto_Project\Crypto_Project\obj\Debug\Crypto_Project.csproj.CoreCompileInputs.cache
+D:\CMPG323\ITRI_615_Crypto_Proj\Crypto_Project\Crypto_Project\obj\Debug\Crypto_Project.exe
+D:\CMPG323\ITRI_615_Crypto_Proj\Crypto_Project\Crypto_Project\obj\Debug\Crypto_Project.pdb
